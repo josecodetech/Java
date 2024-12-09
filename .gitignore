@@ -1,0 +1,9 @@
+.lib/
+temp/
+*.temp
+pass.*
+clave.txt
+*.exe
+/config
+/videos
+env/
