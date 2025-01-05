@@ -4,5 +4,5 @@
 /**
  * 
  */
-module PrimerProyecto {
+module arrays {
 }
