@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;main.GridLayout&apos; to &apos;MiGridLayout&apos;&#x0D;&#x0A;- Original project: &apos;interfazGrafica&apos;&#x0D;&#x0A;- Original element: &apos;main.GridLayout&apos;&#x0D;&#x0A;- Renamed element: &apos;main.MiGridLayout&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GridLayout&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;main{GridLayout.java[GridLayout" matchStrategy="1" name="MiGridLayout" qualified="false" references="true" similarDeclarations="false" stamp="1738999457655" textual="false" version="1.0"/>
+</session>

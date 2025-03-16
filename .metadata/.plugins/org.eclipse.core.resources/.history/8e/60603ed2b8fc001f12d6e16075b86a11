@@ -1,0 +1,15 @@
+package main;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Externa.Interna objeto = new Externa.Interna();
+		objeto.mostrarMensaje();
+		
+		Externa externa = new Externa();
+		Externa.Interna interna = externa.new Interna();
+		interna.mostrarMensaje();
+
+	}
+
+}
