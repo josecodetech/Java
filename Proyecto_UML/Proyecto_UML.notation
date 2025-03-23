@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML"[361, 340, -643984, -643984]$[480, 261, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hp23wAe6EfC0WaH0cFqG0g" id="(1.0,0.11049723756906077)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hp23wQe6EfC0WaH0cFqG0g" id="(0.37267080745341613,1.0)"/>
+  </edges>
+</notation:Diagram>
